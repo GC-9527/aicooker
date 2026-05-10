@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+env/
+ENV/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+app/set_oss_env.bat
+Langchain/.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Langgraph
+.langgraph_api/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sessions
+sessions/
+
+# Resources
+resources/
+
+# Next.js compiled files
+app/static/_next/
+app/static/*.txt
+
+# Test outputs
+test_output.xlsx
+*.tmp
+
+# Other projects
+.vscode/
+check_install.py
+pptmake.py
+test1.py
+test2.py
+test3.py
+student_rag.py
+student_rag/
